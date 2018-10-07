@@ -1,0 +1,57 @@
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\bin\Debug\Backup VB.exe.config
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\bin\Debug\Backup VB.exe
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\bin\Debug\Backup VB.pdb
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\bin\Debug\Backup VB.xml
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\obj\Debug\Backup_VB.Resources.resources
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\obj\Debug\Backup VB.vbproj.GenerateResource.Cache
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\obj\Debug\Backup VB.exe
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\obj\Debug\Backup VB.xml
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\obj\Debug\Backup VB.pdb
+c:\users\danyil\documents\visual studio 2013\Projects\Backup VB\Backup VB\obj\Debug\Backup_VB.BackUp.resources
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\bin\Debug\Backup VB.exe.config
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\obj\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\obj\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\obj\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\bin\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\bin\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\bin\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\obj\Debug\Backup_VB.BackUp.resources
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\obj\Debug\Backup_VB.Resources.resources
+C:\Users\Danyil\Desktop\Applications\Backup VB\Backup VB\obj\Debug\Backup VB.vbproj.GenerateResource.Cache
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.exe.config
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup_VB.BackUp.resources
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup_VB.Resources.resources
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.vbproj.GenerateResource.Cache
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.vbprojResolveAssemblyReference.cache
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.exe.config
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\bin\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.vbprojResolveAssemblyReference.cache
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup_VB.BackUp.resources
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup_VB.Resources.resources
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V2\Backup VB\obj\Debug\Backup VB.vbproj.GenerateResource.Cache
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\bin\Debug\Backup VB.exe.config
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\bin\Debug\Backup VB.exe
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\bin\Debug\Backup VB.pdb
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\bin\Debug\Backup VB.xml
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.vbprojResolveAssemblyReference.cache
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup_VB.BackUp.resources
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup_VB.Resources.resources
+C:\Users\Danyil\Desktop\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.vbproj.GenerateResource.Cache
+G:\Moving out V2\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\bin\Debug\Backup VB.exe.config
+G:\Moving out V2\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.exe
+G:\Moving out V2\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.xml
+G:\Moving out V2\Applications\Projects\Backup Project\Backup VB - V3 Stable\Backup VB\obj\Debug\Backup VB.pdb
